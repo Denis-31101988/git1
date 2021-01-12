@@ -1,1 +1,2 @@
-Document.body.innerHTML='<h2>Hello</h2>'
+Document.body.innerHTML='<h2>He
+console.log('test 2')
